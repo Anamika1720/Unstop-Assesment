@@ -12,8 +12,6 @@ Welcome to the Unstop Dashboard App! This app provides a Web + Mobile user-frien
    npm install
    ```
 
-## Usage
-
 3. After the installation is complete, start the development server by running:
 
    ```bash
