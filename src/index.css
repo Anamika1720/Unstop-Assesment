@@ -1,8 +1,19 @@
 * {
-    font-family: Inter, sans-serif !important;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  background-color: #e9ecef;
+  overflow-x: hidden;
 }
 
-.material-icons, .material-symbols-outlined {
-    font-family: 'Material Icons' !important;
+input {
+  outline: none;
 }
+/* 
+import { MdOutlineViewAgenda } from "react-icons/md";
+import { MdPeopleAlt } from "react-icons/md";
+import { TbWorldShare } from "react-icons/tb"; */
