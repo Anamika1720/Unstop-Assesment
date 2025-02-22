@@ -48,8 +48,8 @@ export const AssessmentsGrid = styled.div`
 `;
 
 export const Text = styled.h2`
-  font-size: 24px;
-  font-weight: bold;
+  font-size: 18px;
+  font-weight: 400;
   color: #383838;
 `;
 

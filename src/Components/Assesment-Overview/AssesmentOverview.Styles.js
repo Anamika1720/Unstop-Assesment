@@ -10,6 +10,8 @@ export const OverviewContainer = styled.div`
   width: 100%;
   justify-content: space-between;
   margin-bottom: 20px;
+  gap: 1px;
+  border-width: 1px;
 `;
 
 export const Section = styled.div`
@@ -68,3 +70,17 @@ export const VerticalSeparator = styled.div`
   height: 80px;
   margin: 0 15px;
 `;
+
+// export const Section1 = styled.div`
+//   display: flex;
+//   align-items: center;
+//   justify-content: space-around;
+//   flex: 1;
+//   width: 162;
+//   height: 114;
+//   gap: 16px;
+//   padding-top: 16px;
+//   padding-right: 20px;
+//   padding-bottom: 16px;
+//   padding-left: 20px;
+// `;
